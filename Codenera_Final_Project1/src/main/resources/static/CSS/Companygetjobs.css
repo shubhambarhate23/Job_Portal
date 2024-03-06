@@ -1,0 +1,36 @@
+button
+{
+  background-color: #3a9a3a;
+  color: #fff;
+  cursor: pointer;
+  align-content:center;
+  margin-top:20px;
+  margin-left:90%;
+  padding:10px;
+  margin-right:20px;
+  color:#AFE1AF;
+  font-size:15px;
+  border:none;
+  border-radius: 5px;
+}
+
+table
+{
+	padding:5px;
+	margin:50px auto;
+	text-align:center;
+	 width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ffffbf;
+}
+
+body
+{
+	background-color:#AFE1AF;
+	font-family: serif;
+}
+
+h1
+{
+	margin-left:450px;
+}
